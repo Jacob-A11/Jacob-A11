@@ -1,0 +1,25 @@
+<p align="center">
+  <img src="assets/logo.svg" width="110" alt="Logo" />
+</p>
+
+<h1 align="center">Jacob Arevalo</h1>
+
+<p align="center">
+  Senior Software Engineer — <b>Next.js</b> / <b>Python</b> — <b>eCommerce</b> & <b>APIs</b>
+</p>
+
+<p align="center">
+  I build fast, maintainable web apps and integrations: checkout flows, payments, data pipelines, and performance-first architecture.
+</p>
+
+---
+
+### Focus
+- eCommerce (BigCommerce, Ecwid)  
+- Full‑stack: Next.js/React/TypeScript • Python (FastAPI) • Node.js  
+- REST APIs • Auth • Integrations • Automation  
+- AWS • PostgreSQL • Docker • CI/CD
+
+### Contact
+- Upwork: _add link_
+- Email: _add email_
