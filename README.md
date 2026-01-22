@@ -15,4 +15,4 @@
 - Full‑stack: Next.js/React/TypeScript • Python (FastAPI) • Node.js  
 - REST APIs • Auth • Integrations • Automation  
 - AWS • PostgreSQL • Docker • CI/CD
-- eCommerce (BigCommerce, Ecwid)  
+- eCommerce (WooCommerce, BigCommerce, Ecwid)  
