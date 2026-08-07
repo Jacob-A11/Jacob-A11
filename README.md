@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jacob Arevalo</h1>
+<h1 align="center">Hi, I'm Gilbert Judkins</h1>
 <h3 align="center">Senior Software Engineer | Full-Stack Developer | SaaS, eCommerce, AI Integrations</h3>
 
 <p align="center">
